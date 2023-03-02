@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI Compose</string>
+    <string name="app_title">Calculator</string>
+    <string name="weight">Your weight in kg</string>
+    <string name="height">Your height in cm</string>
+    <string name="button_calculate">CALCULATE</string>
+    <string name="your_score">Your score:</string>
+    <string name="reset_button">RESET</string>
+    <string name="share_button">SHARE</string>
+    <string name="height_error">The height is required!</string>
+    <string name="weight_error">The weight is required!</string>
+</resources>
